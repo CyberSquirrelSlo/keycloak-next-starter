@@ -114,5 +114,8 @@ If this project saved you time, please consider:
 - ⭐ Starring the repo
 - ☕ [Buy me a coffee](https://www.buymeacoffee.com/leposava)
 - 💼 Need a **custom Keycloak theme or production setup**?  
-  Contact me at **leposava.knez@gmail.com**
+🔑 **Need help with Keycloak?**
+I offer professional setup, custom themes, and integration.  
+👉 [Hire me](mailto:leposava.knez@gmail.com) 
+  
 
