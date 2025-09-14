@@ -108,3 +108,11 @@ npm run lint    # Lint code
 Code: MIT  
 Keycloak: Apache 2.0 (upstream)  
 Not affiliated with Red Hat/Keycloak.
+
+## ❤️ Support & Custom Work
+If this project saved you time, please consider:
+- ⭐ Starring the repo
+- ☕ [Buy me a coffee](https://www.buymeacoffee.com/yourname)
+- 💼 Need a **custom Keycloak theme or production setup**?  
+  Contact me at **leposava.knez@gmail.com**
+
